@@ -1,7 +1,6 @@
 # Manipulación de Displays con el PIC16F877A
 
 ![image](https://github.com/user-attachments/assets/bffcba36-89e7-4827-a1a4-671058767143)
-Practica 3 de la materia de Arquitectura de Microcontroladores.
 
 El objetivo de esta práctica es la comprensión de los puertos de salida y su manejo de estos en el despliegue de mensajes
 
