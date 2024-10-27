@@ -13,3 +13,9 @@ El objetivo de esta práctica es la comprensión de los puertos de salida y su m
 -Display de 7 segmentos de cátodo común (8)
 
 -Resistencia de 100Ω (8)
+
+# Limitantes
+
+Debido a las limitantes fisicas de la práctica y los displays, solo ciertas letras se pueden reproducir correctamente. Así mismo, la longitud de caracteres está limitada a 8 por las mismas razones.
+
+Para verificar si se puede reproducir una palabra, existe la herramienta "character.py", la cual muestra si la palabra cabe o se recorta, y si es la segunda, como se mostrará en el display
