@@ -20,6 +20,11 @@ Debido a las limitantes fisicas de la práctica y los displays, solo ciertas let
 
 Para verificar si se puede reproducir una palabra, existe la herramienta "character.py", la cual muestra si la palabra cabe o se recorta, y si es la segunda, como se mostrará en el display
 
+# Funcionamiento
+
+Una vez programado y cargado en el PIC16F877A, el programa iniciara solo al energizarse el PIC, Este mostrara el mensaje palabra por palabra con una duración de 3 segundos.
+
+El mensaje se repite indefinidamente, pero si se requiere estático, este se logra con las siguientes líneas:
 ```python:src/trabate_lucas.asm
   trabate_lucas;
   call retardo;
