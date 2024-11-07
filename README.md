@@ -19,3 +19,10 @@ El objetivo de esta práctica es la comprensión de los puertos de salida y su m
 Debido a las limitantes fisicas de la práctica y los displays, solo ciertas letras se pueden reproducir correctamente. Así mismo, la longitud de caracteres está limitada a 8 por las mismas razones.
 
 Para verificar si se puede reproducir una palabra, existe la herramienta "character.py", la cual muestra si la palabra cabe o se recorta, y si es la segunda, como se mostrará en el display
+
+```python:src/helloworld.py
+  trabate_lucas;
+  call retardo;
+  goto trabate_lucas;"
+
+```
