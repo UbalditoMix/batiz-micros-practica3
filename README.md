@@ -20,7 +20,7 @@ Debido a las limitantes fisicas de la práctica y los displays, solo ciertas let
 
 Para verificar si se puede reproducir una palabra, existe la herramienta "character.py", la cual muestra si la palabra cabe o se recorta, y si es la segunda, como se mostrará en el display
 
-```python:src/helloworld.py
+```python:src/trabate_lucas.asm
   trabate_lucas;
   call retardo;
   goto trabate_lucas;"
